@@ -6,14 +6,23 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#9333ea', // Purple 600
-          dark: '#7e22ce',    // Purple 700
-          light: '#a855f7',   // Purple 500
-        }
+          DEFAULT: '#7C3AED', // Purple 600
+          dark: '#6D28D9',    // Purple 700
+          light: '#A78BFA',   // Purple 400
+        },
+        gray: {
+          700: '#1E293B',  // Slate 800
+          800: '#1E293B',  // Slate 800
+          900: '#0F172A',  // Slate 900
+        },
+      },
+      fontFamily: {
+        sans: ['var(--font-inter)', 'Inter', 'sans-serif'],
       },
     },
   },

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bill_001",
+    "title": "Education Reform Bill 2025",
+    "publication_date": "2025-03-15",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_002",
+    "title": "Healthcare Modernization Act 2025",
+    "publication_date": "2025-03-10",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_003",
+    "title": "Climate Protection Bill 2025",
+    "publication_date": "2025-03-05",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_004",
+    "title": "Digital Privacy Act 2025",
+    "publication_date": "2025-02-28",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_005",
+    "title": "Tax Simplification Bill 2025",
+    "publication_date": "2025-02-20",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_006",
+    "title": "Infrastructure Development Act 2025",
+    "publication_date": "2025-02-15",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_007",
+    "title": "Small Business Support Bill 2025",
+    "publication_date": "2025-02-10",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_008",
+    "title": "Renewable Energy Incentives Act 2025",
+    "publication_date": "2025-02-05",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_009",
+    "title": "National Security Enhancement Bill 2025",
+    "publication_date": "2025-01-30",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_010",
+    "title": "Public Transportation Modernization Act 2025",
+    "publication_date": "2025-01-25",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_011",
+    "title": "Agricultural Support Bill 2025",
+    "publication_date": "2025-01-20",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_012",
+    "title": "Higher Education Funding Act 2025",
+    "publication_date": "2025-01-15",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_013",
+    "title": "Affordable Housing Initiative 2025",
+    "publication_date": "2025-01-10",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_014",
+    "title": "Veterans Support Enhancement Act 2025",
+    "publication_date": "2025-01-05",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_015",
+    "title": "Tech Industry Regulation Bill 2024",
+    "publication_date": "2024-12-30",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_016",
+    "title": "Mental Health Services Expansion Act 2024",
+    "publication_date": "2024-12-25",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_017",
+    "title": "Water Conservation Bill 2024",
+    "publication_date": "2024-12-20",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_018",
+    "title": "Elderly Care Improvement Act 2024",
+    "publication_date": "2024-12-15",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_019",
+    "title": "Child Protection Enhancement Bill 2024",
+    "publication_date": "2024-12-10",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    "id": "bill_020",
+    "title": "Public Health Emergency Response Act 2024",
+    "publication_date": "2024-12-05",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  }
+] 
